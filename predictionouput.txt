@@ -1,0 +1,41 @@
+2025/09/05 22:31:47 INFO mlflow.tracking.fluent: Experiment with name 'coffe_price_pred' does not exist. Creating a new experiment.
+/home/codespace/anaconda3/lib/python3.9/site-packages/xgboost/core.py:158: UserWarning: [22:31:49] WARNING: /workspace/src/objective/regression_obj.cu:227: reg:linear is now deprecated in favor of reg:squarederror.
+  warnings.warn(smsg, UserWarning)
+[0]     validation-rmse:4.33018
+[1]     validation-rmse:3.91817
+[2]     validation-rmse:3.54553
+[3]     validation-rmse:3.20901
+[4]     validation-rmse:2.90545
+[5]     validation-rmse:2.63117
+[6]     validation-rmse:2.38399
+[7]     validation-rmse:2.16088
+[8]     validation-rmse:1.96004
+[9]     validation-rmse:1.77910
+[10]    validation-rmse:1.61615
+[11]    validation-rmse:1.46970
+[12]    validation-rmse:1.33828
+[13]    validation-rmse:1.22064
+[14]    validation-rmse:1.11519
+[15]    validation-rmse:1.02101
+[16]    validation-rmse:0.93696
+[17]    validation-rmse:0.86244
+[18]    validation-rmse:0.79648
+[19]    validation-rmse:0.73793
+[20]    validation-rmse:0.68651
+[21]    validation-rmse:0.64186
+[22]    validation-rmse:0.60263
+[23]    validation-rmse:0.56876
+[24]    validation-rmse:0.53956
+[25]    validation-rmse:0.51432
+[26]    validation-rmse:0.49299
+[27]    validation-rmse:0.47479
+[28]    validation-rmse:0.45949
+[29]    validation-rmse:0.44659
+2025/09/05 22:31:52 WARNING mlflow.models.model: `artifact_path` is deprecated. Please use `name` instead.
+/home/codespace/anaconda3/lib/python3.9/site-packages/xgboost/core.py:158: UserWarning: [22:31:52] WARNING: /workspace/src/c_api/c_api.cc:1374: Saving model in the UBJSON format as default.  You can use file extension: `json`, `ubj` or `deprecated` to choose between formats.
+  warnings.warn(smsg, UserWarning)
+2025/09/05 22:31:58 WARNING mlflow.utils.environment: Encountered an unexpected error while inferring pip requirements (model URI: /tmp/tmpcmuwq8ep/model, flavor: xgboost). Fall back to return ['xgboost==2.1.4']. Set logging level to DEBUG to see the full traceback. 
+2025/09/05 22:31:58 WARNING mlflow.models.model: Model logged without a signature and input example. Please set `input_example` parameter when logging the model to auto infer the model signature.
+🏃 View run magnificent-mule-813 at: http://0.0.0.0:5000/#/experiments/648359055752305176/runs/38c67ff3d9f142c7b5cc504d64480bc3
+🧪 View experiment at: http://0.0.0.0:5000/#/experiments/648359055752305176
+MLflow run_id: 38c67ff3d9f142c7b5cc504d64480bc3
