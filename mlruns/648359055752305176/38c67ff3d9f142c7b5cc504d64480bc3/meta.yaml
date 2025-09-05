@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/648359055752305176/38c67ff3d9f142c7b5cc504d64480bc3/artifacts
+end_time: 1757111518246
+entry_point_name: ''
+experiment_id: '648359055752305176'
+lifecycle_stage: active
+run_id: 38c67ff3d9f142c7b5cc504d64480bc3
+run_name: magnificent-mule-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757111507652
+status: 3
+tags: []
+user_id: codespace

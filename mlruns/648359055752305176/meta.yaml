@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/648359055752305176
+creation_time: 1757111507379
+experiment_id: '648359055752305176'
+last_update_time: 1757111507379
+lifecycle_stage: active
+name: coffe_price_pred
